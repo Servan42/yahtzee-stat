@@ -15,4 +15,4 @@ You can choose to run the [shell](run.sh) from a Unix terminal that will do ever
 ## License and Maintainers
 
 This software is a free software that is under the [MIT license](LICENSE) and is 
-maintained by Servan CHATLOT.
+maintained by Servan CHARLOT.
